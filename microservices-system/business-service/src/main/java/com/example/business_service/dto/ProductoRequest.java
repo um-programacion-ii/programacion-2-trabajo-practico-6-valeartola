@@ -14,5 +14,4 @@ public class ProductoRequest {
     private BigDecimal precio;
     private Integer stock;
     private String categoriaNombre;
-
 }
